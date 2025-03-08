@@ -1,0 +1,4 @@
+Yemekleri Görme
+Sipariş Verme
+Garson Çağırma
+Kart ile Ödeme
