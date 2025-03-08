@@ -1,4 +1,4 @@
-Yemekleri Görme
+Garson Çağırma
 Sipariş Verme
 Kart ile Ödeme
 Yemeğe Puan Verme
