@@ -1,5 +1,5 @@
-Yemekleri Görme
-Sipariş Verme
 Garson Çağırma
+Sipariş Verme
+Yemekleri Görme
 Kart ile Ödeme
 Yemeğe Puan Verme
